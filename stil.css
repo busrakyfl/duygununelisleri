@@ -1,0 +1,206 @@
+@charset "utf-8";
+body {
+
+
+
+
+
+
+	background-image: url(image/59_1360659526_008--S31--4
+.00-(Kopyala).JPG)
+	background-color: #D6D6D6;
+	background-repeat: no-repeat;
+	background-position: right 300px;
+	background-color: #B6B7B2;
+}
+#logo {
+	height: 200px;
+	width: 800px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-repeat: no-repeat;
+	background-image: url(image/12345.jpg);
+	border: 5px solid #611638;
+}
+#menu ul li a {
+	font-family: "segoe Print";
+	display: block;
+	float: left;
+	text-decoration: none;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #E099BB;
+	font-size: 18px;
+}
+
+
+
+#menu ul li a:hover {
+	font-family: "segoe Print";
+	font-size: 18px;
+	font-weight: bold;
+	color: #611638;
+	background-color: #E099BB;
+}
+#icerik {
+	height: auto;
+	width: 800px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	border-right-width: 5px;
+	border-bottom-width: 5px;
+	border-left-width: 5px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #611638;
+	border-bottom-color: #611638;
+	border-left-color: #611638;
+}
+
+
+
+#logo {
+	font-family: "segoe Print";
+	font-size: 18px;
+	font-weight: bold;
+	color: #611638;
+	background-color: #E099BF;
+}
+
+
+
+#menu {
+	height: 50px;
+	width: 800px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	border-right-width: 5px;
+	border-right-style: solid;
+	border-right-color: #611638;
+	border-left-width: 5px;
+	border-left-style: solid;
+	border-left-color: #611638;
+	background-color: #611638;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #611638;
+}
+#genel #icerik #icerikbir ul li a {
+	font-family: "Comic Sans MS";
+}
+#genel #icerik #icerikbir ul {
+}
+
+
+#genel #icerik p img {
+	border: 2px solid #611638;
+}
+
+
+
+#logo h1 {
+	font-family: "segoe Print";
+	font-size: 50px;
+	font-weight: bold;
+	color: #611638;
+	padding-left: 20px;
+	padding-top: 80px;
+}
+#menu ul {
+	list-style-type: none;
+	height: 30px;
+}
+
+#logo strong {
+	font-family: "segoe Print";
+	font-size: 12px;
+	color: #E099BB;
+	float: right;
+	padding-top: 5px;
+	padding-right: 10px;
+}
+#icerik strong {
+	font-family: "segoe Print";
+	font-size: 16px;
+}
+#dipnot h1 {
+	font-family: "segoe Print";
+	font-size: 9px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+#genel #icerik p {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#genel #icerik #icerikbir {
+	float: left;
+	width: 150px;
+	list-style-type: none;
+	font-family: "Comic Sans MS";
+	background-color: #611638;
+	height: 200px;
+}
+
+#genel #icerik #icerikiki {
+	float: left;
+	width: 650px;
+}
+#genel #icerik #icerikbir ul li a:hover {
+	color: #FFCC00;
+	text-decoration: underline;
+	font-family: "segoe Print";
+}
+
+#genel #icerik #icerikbir ul {
+	background-color: #611638;
+	height: auto;
+	list-style-type: none;
+}
+#genel #icerik #icerikiki h1 {
+	color: #A7292D;
+}
+#genel #icerik img {
+	border: 5px solid #611638;
+	margin: 20px;
+}
+#genel #icerik #icerikbir ul li a {
+	color: #E099BB;
+}
+
+#genel #icerik a {
+	font-family: "segoe Print";
+	font-size: 14px;
+	text-decoration: none;
+}
+#genel #icerik a ul li {
+	color: #000;
+}
+#genel #icerik a h1 {
+	color: #92171A;
+}
+#genel #icerik a {
+	color: #000000;
+}
+#genel #icerik a ul li {
+	color: #611638;
+}
+#genel {
+	width: 810px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
